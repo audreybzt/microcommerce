@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07f2766b-85c5-4fff-9f26-37a9433d5067" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestsPostman/Capture_1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestsPostman/Capture_2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestsPostman/Test API Produits.postman_collection.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/ecommerce/microcommerce/web/exceptions/ProduitGratuitException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ecommerce/microcommerce/configuration/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ecommerce/microcommerce/configuration/SwaggerConfig.java" afterDir="false" />
@@ -44,12 +48,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TestsPostman" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Audrey\Downloads\microcommerce\microcommerce\TestsPostman" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Audrey\Downloads\microcommerce\microcommerce\TestsPostman" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.ecommerce.microcommerce.web.exceptions" />
     </key>
@@ -100,22 +111,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588073245108" />
-    <state width="1068" height="287" key="GridCell.Tab.0.bottom" timestamp="1588251502415">
+    <state width="1068" height="287" key="GridCell.Tab.0.bottom" timestamp="1588253189595">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1068" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588251502415" />
-    <state width="1068" height="287" key="GridCell.Tab.0.center" timestamp="1588251502415">
+    <state width="1068" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588253189595" />
+    <state width="1068" height="287" key="GridCell.Tab.0.center" timestamp="1588253189595">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1068" height="287" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588251502415" />
-    <state width="1068" height="287" key="GridCell.Tab.0.left" timestamp="1588251502415">
+    <state width="1068" height="287" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588253189595" />
+    <state width="1068" height="287" key="GridCell.Tab.0.left" timestamp="1588253189594">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1068" height="287" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588251502415" />
-    <state width="1068" height="287" key="GridCell.Tab.0.right" timestamp="1588251502415">
+    <state width="1068" height="287" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588253189594" />
+    <state width="1068" height="287" key="GridCell.Tab.0.right" timestamp="1588253189595">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1068" height="287" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588251502415" />
+    <state width="1068" height="287" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588253189595" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1582902246293">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
