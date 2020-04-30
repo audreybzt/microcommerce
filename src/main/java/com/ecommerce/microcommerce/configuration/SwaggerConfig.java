@@ -19,7 +19,8 @@ public class SwaggerConfig {
                 .apis(RequestHandlerSelectors.basePackage(
                         "com.ecommerce.microcommerce.web"
                 ))
-                .paths(PathSelectors.regex("/Produits.*"))
+//                .paths(PathSelectors.regex("/Produits.*"))
+                .paths(PathSelectors.any())
                 .build();
     }
 }
